@@ -80,3 +80,28 @@ h3{
 }
 
 /* Our Work */
+
+/* Products */
+
+#products img {
+    width: 220px;
+    height: 180px;
+}
+
+/* Products */
+
+/* Testimonials */
+
+#testimonials .carousel-item img {
+    height: auto;
+}
+
+#testimonials h5:hover {
+    color: #000000;
+}
+
+#testimonials p:hover {
+    color: #000000;
+}
+
+/* Testimonials */
