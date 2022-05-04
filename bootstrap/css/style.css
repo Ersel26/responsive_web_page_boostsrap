@@ -35,12 +35,12 @@ h3{
 #header {
     background: url("../images/v546batch3-mynt-34-badgewatercolor_1.jpg");
     background-size: cover;
-    height: 100vh;
+    height: 60vh;
 }
 
 #header .overlay {
     background-color: rgba(26, 0, 26, .4);
-    height: 100vh;
+    height: 60vh;
 }
 
 #header h1 {
@@ -64,3 +64,19 @@ h3{
 }
 
 /* Features */
+
+/* Our Work */
+
+#work {
+    background: url(../images/our-work-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#work i {
+    color: #990099;
+}
+
+/* Our Work */
