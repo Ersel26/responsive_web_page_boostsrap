@@ -105,3 +105,91 @@ h3{
 }
 
 /* Testimonials */
+
+/* History Part */
+
+#history {
+    background-color: #f0f0f5;
+}
+
+.historyText {
+    background-color: #ffffff;
+    border-radius: 5%;
+    padding: 20px;
+    margin-right: -40px;
+    z-index: -1;
+}
+
+.historyImage {
+    margin-top: 100px;
+}
+
+/* History Part */
+
+/* Gallery Part */
+
+#gallery {
+    background: url(../images/our-work-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.image-container {
+    position: relative;
+    margin-top: 20px;
+}
+
+.image-container img {
+    border-radius: 5%;
+}
+
+.imgOverlay {
+    position: absolute;
+    top: 20%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+
+.imgOverlay:hover {
+    opacity: 1;
+}
+
+#gallery .imgText {
+    color: #ff8000;
+}
+
+/* Gallery Part */
+
+/* Footer */
+
+#footer {
+    background-color: #111111;
+}
+
+#footer h3 {
+    color: #f0f0f5;
+}
+
+#footer p {
+    color: #f0f0f5;
+}
+
+#footer a {
+    color: #f0f0f5;
+}
+
+#footer label {
+    color: #f0f0f5;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+/* Footer */
