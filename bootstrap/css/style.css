@@ -197,3 +197,27 @@ html {
 }
 
 /* Footer */
+
+@media screen and (max-width: 1200px){
+    #header{
+        background-size: 1200px 100hv;
+    }
+}
+
+@media screen and (max-width: 992px){
+    #header{
+        background-size: 992px 100hv;
+    }
+}
+
+@media screen and (max-width: 768px){
+    #header{
+        background-size: 768px 100hv;
+    }
+}
+
+@media screen and (max-width: 576px){
+    #header{
+        background-size: 576px 100hv;
+    }
+}
