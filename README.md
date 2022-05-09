@@ -8,4 +8,4 @@ js folder and all .css files which start with bootstrap are obtained from open s
 index.html and style.css files are my own work
 Moreover, all images can be found in the image folder.
 
-You can reach and examine the full web site via https://ersel26.github.io/responsive_web_page_boostsrap/
+You can reach and examine the full web site via https://ersel26.github.io/responsive_web_page_bootstrap/
